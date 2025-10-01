@@ -1,0 +1,15 @@
+flask
+flask-cors
+sentence-transformers
+joblib
+numpy
+scikit-learn
+xgboost
+gunicorn
+datasets
+pandas
+scikit-learn
+matplotlib
+seaborn
+sentence-transformers
+underthesea
